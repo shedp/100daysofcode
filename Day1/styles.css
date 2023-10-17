@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #0F0F0F;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.nav-links,
+.dropdown {
+    list-style: none;
+}
+
+.nav-item {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-item a {
+    transition: all 0.3s ease 0s;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: rgb(225, 152, 152, 1);
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+/* Navbar1 */
+
+#navbar1 .nav-item a:hover {
+    color: rgb(225, 152, 152);
+}
+
+#navbar1 button:hover {
+    background-color: rgb(225, 152, 152, 0.8);
+}
+
+/* Navbar 2 */
+
+#navbar2,
+#navbar2 * {
+    background-color: #176B87;
+}
+
+#navbar2 {
+    justify-content: flex-end;
+}
+
+#navbar2 .logo {
+    float: left;
+    margin-right: auto;
+}
+
+#navbar2 .nav-item a:hover {
+    color: rgb(0, 0, 0)
+}
+
+#navbar2 button {
+    margin-left: 20px;
+    background-color: rgb(100, 204, 197, 1);
+}
+
+#navbar2 button:hover {
+    background-color: rgb(100, 204, 197, 0.8);
+}
+
+/* Navbar 3 */
+
+#navbar3,
+#navbar3 * {
+    background-color: #F1D4E5;
+    color: #393646;
+}
+
+#navbar3 {
+    justify-content: flex-end;
+}
+
+#navbar3 .logo {
+    order: 3;
+    margin-left: auto;
+}
+
+/* needs to target the direct child of the navbar div */
+#navbar3 nav {
+    order: 1;
+}
+
+#navbar3 .nav-item:nth-child(1) {
+    padding-left: 0px;
+}
+
+#navbar3 .btn {
+    order: 2;
+}
+
+#navbar3 button {
+    margin-left: 20px;
+    background-color: rgb(109, 93, 110);
+    color: white;
+}
+
+#navbar3 button:hover {
+    background-color: rgb(109, 93, 110, 0.8);
+}
+
+/* Navbar 4 */
+
+#navbar4,
+#navbar4 * {
+    background-color: #FFBF9B;
+    color: #000;
+}
+
+#navbar4 {
+    justify-content: flex-end;
+}
+
+#navbar4 .logo {
+    float: left;
+    margin-right: auto;
+}
+
+#navbar4 .nav-item a:hover {
+    text-decoration: overline;
+}
+
+#navbar4 .dropdown {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 23em;
+    left: auto;
+    padding: 1em;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#navbar4 .nav-item:nth-child(3):hover .dropdown {
+    opacity: 1;
+}
+
+#navbar4 .dropdown li {
+    padding: 0.5rem;
+}
+
+#navbar4 button {
+    margin-left: 20px;
+    background-color: rgb(255, 165, 89);
+}
+
+#navbar4 button:hover {
+    background-color: rgb(255, 165, 89, 0.8);
+}
