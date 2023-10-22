@@ -12,3 +12,6 @@ Starting the 100 Days of Code Challenge.
 ## Day 2: Frontend - Button Hover Effects
 - Trying out some fun hover effects for buttons
 - Created 7 buttons
+
+## Day 3: Frontend - CSS Grids
+- Trying out different grid notations
