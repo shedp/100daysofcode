@@ -83,9 +83,24 @@
 - Objects - instance of a class, an actual object with data
 
 - Java has predefined classes such as `System`
-- Syntax for class:
-    `public class ClassName {
-        public static void(String[] args){
-            ...
+- To create an object, you need a constructor method
+- The constructor shares the same name as the class
+- To create an instance, you need to call or invoke the constructor within main()
+    `public class Car{
+        String color;
+        public Car(String carColor) {
+            color = carColor;
+        }
+        public static void main(String[] args) {
+            Car ferrari = new Car(); 
         }
     }`
+- Car in this example is the data type.
+- the output will show it's memory address
+    `Car@76ed5528`
+- initialise instance fields and pass values into the constructor method and it will ne assigned to the field
+- There are 2 types of parameters: formal and actual
+- Formal parameter specifies the type and name of data passed into a method
+- Actual parameter
+- Constructor overloading - a class can have multiple constructors as long as they have different parameter values
+- 
