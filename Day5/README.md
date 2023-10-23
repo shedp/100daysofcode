@@ -43,6 +43,9 @@
 2) first letter is lowercase
 3) first character should be a letter
 4) no underscores
+    `dataType variableName = value;`
+- For a variable that should never change, use the `final` keyword
+    `final dataType variable = value`
 
 ## Manipulating Variables
 - Operations: + - * / %
@@ -51,4 +54,4 @@
 - When comparing if Strings are equal or not:
     `variable1.equals(variable2)`
 - String Concatenation: `"Hello "+"World!"`
-- 
+-
