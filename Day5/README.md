@@ -1,6 +1,6 @@
 # Intro to Java
 - Codecademy course
-- Part of my 100 Days of Code challenge, day 5 I have decided to try a new language
+- Part of my 100 Days of Code challenge, day 5-6 I have decided to try a new language
 
 - Java programs have at least 1 class and 1 main() method
 -Each class represents a real-word idea
@@ -54,4 +54,38 @@
 - When comparing if Strings are equal or not:
     `variable1.equals(variable2)`
 - String Concatenation: `"Hello "+"World!"`
--
+
+## Casting and Converting
+- Transforming a value from one primitive data type to another using type casting
+- Changing the data type can change the amount the data can hold
+- If there is less data after, then it's called narrow type casting, if the other way round, widening type casting
+- To cast, we tell the compiler that we want a temp value that is a converted data type
+
+### Numerical-Based Casting
+- Convert double into int
+    `int numInt = (int) numDouble`
+- not that this does not round the number to an int but truncate it e.g 12.99 --> 12
+- int have 4 bytes of storage. Integer.MAX_VALUE/Integer.MIN_VALUE tells you the max/min number
+- If you create an expression with a value outside of this range, it would be an integer overflow, which could result in error or an incorrect value that’s within the allowed range.
+
+- If casting to change int value to a double, implement the (double) casting operator in our code:
+    `double numDouble = (double)numInt;`
+
+### Converting Integer and String Values
+- This doesn’t count as casting because a String is not a primitive type value
+    `String numString = String.valueOf(numInt);`
+- Convert string to int:
+    `int numInt = Integer.parseInt(numString)`
+
+## Classes and Objects
+- Classes - in OOP, classes are specifications for data types
+- define attribute and functionality of an entity
+- Objects - instance of a class, an actual object with data
+
+- Java has predefined classes such as `System`
+- Syntax for class:
+    `public class ClassName {
+        public static void(String[] args){
+            ...
+        }
+    }`
