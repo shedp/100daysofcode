@@ -19,5 +19,5 @@ Starting the 100 Days of Code Challenge.
 ## Day 4: Javascript Timer
 - A simple Javascript timer
 
-## Day 5: Intro to Java
+## Day 5-6: Intro to Java
 - Following the Codecademey Intro to Java course
