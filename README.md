@@ -17,3 +17,7 @@ Starting the 100 Days of Code Challenge.
 - Trying out different grid notations
 
 ## Day 4: Javascript Timer
+- A simple Javascript timer
+
+## Day 5: Intro to Java
+- Following the Codecademey Intro to Java course
