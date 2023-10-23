@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: rgb(254, 187, 204);
+    background: linear-gradient(90deg, rgba(254, 187, 204, 1) 16%, rgba(255, 204, 204, 1) 43%, rgba(255, 221, 204, 1) 61%, rgba(255, 238, 204, 1) 79%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timer {
+    width: 40%;
+    margin-top: 8%;
+    padding: 10%;
+    background-color: rgb(255, 255, 255, 0.6);
+    border: 3px solid white;
+    border-radius: 2rem;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: black;
+}
+
+.running {
+    color: rgb(189, 75, 94);
+}
+
+.controls button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background: none;
+    width: 6em;
+    height: 2.5em;
+    border-radius: 1.25em;
+    border: 2px solid white;
+}
+
+.controls button:hover {
+    background-color: white;
+    color: rgb(189, 75, 94);
+}

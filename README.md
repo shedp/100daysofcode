@@ -15,3 +15,5 @@ Starting the 100 Days of Code Challenge.
 
 ## Day 3: Frontend - CSS Grids
 - Trying out different grid notations
+
+## Day 4: Javascript Timer
