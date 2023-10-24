@@ -48,7 +48,7 @@
     `final dataType variable = value`
 
 ## Manipulating Variables
-- Operations: + - * / %
+- Operations: `+ - * / %`
 - Compound Assignment Operators: `+= -= *= /+ %=`
 - Comparisons: `== != > < >= <=`
 - When comparing if Strings are equal or not:
@@ -103,4 +103,23 @@
 - Formal parameter specifies the type and name of data passed into a method
 - Actual parameter
 - Constructor overloading - a class can have multiple constructors as long as they have different parameter values
-- 
+- Access the parameter field of an instance
+    `instance.parameter`
+
+## Methods
+- define object behavior (what tasks it should perform)
+- Methods are repeatable, reuseable, modular blocks of code
+- Define methods with `public void methodName() {}`
+- `public` - other clases can access this method
+- `void` - no specific output from the method
+- Call a method: `instance.methodName()`
+
+### Scope
+- We mark a domain with `{ }` - this is called the scopre of a method
+- Variables initialised inside a scope cannot be used outside of it
+- `return` values to save into new variable
+- methods no longer `void`, instead, define the data type
+- Returning an object works differently from returning promitive value
+    - returns a reference to an object instead of a copy
+- Returning an object will return it's memory location
+- We can put the object elements into a string and return the string
