@@ -25,6 +25,6 @@ Starting the 100 Days of Code Challenge.
 ### Day 7: Javascript Code Wars
 - Doing 1 hour of Code Wars on Javascript
 
-- ### Day 8-11: Javascript Code Wars
+### Day 8-11: Javascript Code Wars
 - Portfolio
 - <a href="https://github.com/shedp/SheenaPorfolio">link</a>
