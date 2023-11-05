@@ -22,5 +22,5 @@ Starting the 100 Days of Code Challenge.
 ### Day 5-6: Intro to Java
 - Following the Codecademey Intro to Java course
 
-### Day 7: Javascript Code Wars
-- Doing 1 hour of Code Wars on Javascript
+### Day 7-8: Javascript Code Wars
+- Doing 1 hour of Code Wars on Javascriptgit co
