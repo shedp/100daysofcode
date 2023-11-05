@@ -23,4 +23,8 @@ Starting the 100 Days of Code Challenge.
 - Following the Codecademey Intro to Java course
 
 ### Day 7-8: Javascript Code Wars
-- Doing 1 hour of Code Wars on Javascriptgit co
+- Doing 1 hour of Code Wars on Javascript
+
+### Day 9-12: Javascript Code Wars
+- Portfolio
+- <a href="https://github.com/shedp/SheenaPorfolio">link</a>
