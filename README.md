@@ -28,3 +28,6 @@ Starting the 100 Days of Code Challenge.
 ### Day 9-12: Javascript Code Wars
 - Portfolio
 - <a href="https://github.com/shedp/SheenaPorfolio">link</a>
+
+### Day 13: Flask API
+- Flask API with authentication with JSON web tokens (JWT)

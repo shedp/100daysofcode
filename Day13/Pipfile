@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
+jwt = "*"
+datetime = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
