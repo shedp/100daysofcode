@@ -37,3 +37,5 @@ State Date: 17th October 2023
 ### Day 15: Python Sudoku Solver
 - Practicing Python logic
 - Return whether a sodoku puzzle is solvable and it's solution using backtracking
+
+### Day 16: Blogging App with Next.js
