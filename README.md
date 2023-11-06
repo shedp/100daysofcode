@@ -1,40 +1,17 @@
-# 100DaysOfCode
+## Python Sudoku Solver
 
-Starting the 100 Days of Code Challenge.
+- This is a python sudoku solver
+- It will use backtracking to solve the puzzle
+- Checks whether puzzle is solvable
+- if yes, it will mutate puzzle
+- puzzle will be a list of lists where inner lists represents each row
+- program will try every combination of numbers by filling in the empty slots
 
-**Start Date:** 17th October 2023
-
-### Day 1: Frontend - Navbar
-- Creating navigation bars using flexbox
--4 navbars including 1 dropdown menu
-    html5, vanilla css
-
-### Day 2: Frontend - Button Hover Effects
-- Trying out some fun hover effects for buttons
-- Created 7 buttons
-
-### Day 3: Frontend - CSS Grids
-- Trying out different grid notations
-
-### Day 4: Javascript Timer
-- A simple Javascript timer
-
-### Day 5-6: Intro to Java
-- Following the Codecademey Intro to Java course
-
-### Day 7-8: Javascript Code Wars
-- Doing 1 hour of Code Wars on Javascript
-
-### Day 9-12: Javascript Code Wars
-- Portfolio
-- <a href="https://github.com/shedp/SheenaPorfolio">link</a>
-
-### Day 13: Flask API
-- Flask API with authentication with JSON web tokens (JWT)
-
-### Day 14: Python Tic Tac Toe
-- Python Tic Tac Toe
-
-### Day 15: Python Sodoku Solver
-- Use backtracking to solve the puzzle
-- Checks whether puzzle is solvable and will mutate puzzle with the solution
+- Step 1: find an empty slot ('find_next_empty()')
+    - Step 1.1: if no slots are empty, puzzle is solved
+- Step 2: if there is an empty slot, make a guess between 1-9
+- Step 3: check if guess is valid ('is_valid()')
+    - Step 3.1: place the guess
+    - Step 3.2: recursivley call function
+- Step 4: if guess invalid of is does not solve puzzle, backtrack and start all over
+- Step 5: if all combinations are False, the board is not solveable
