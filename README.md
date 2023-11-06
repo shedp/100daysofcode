@@ -34,3 +34,7 @@ Starting the 100 Days of Code Challenge.
 
 ### Day 14: Python Tic Tac Toe
 - Python Tic Tac Toe
+
+### Day 15: Python Sodoku Solver
+- Use backtracking to solve the puzzle
+- Checks whether puzzle is solvable and will mutate puzzle with the solution
