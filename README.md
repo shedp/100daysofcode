@@ -31,3 +31,6 @@ Starting the 100 Days of Code Challenge.
 
 ### Day 13: Flask API
 - Flask API with authentication with JSON web tokens (JWT)
+
+### Day 14: Python Tic Tac Toe
+- Python Tic Tac Toe
