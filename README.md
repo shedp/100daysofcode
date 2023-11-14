@@ -25,7 +25,7 @@ State Date: 17th October 2023
 
 ### Day 9-12: Personal Portfolio
 - Building my personal porfolio using hardcoded HTML, CSS and Javascript
-- https://github.com/shedp?tab=repositories
+- [Github Repo](https://github.com/shedp?tab=repositories)
 
 ### Day 13: Flask App Authentication using JWT
 - Using JWT to create authentication for a Flask app
@@ -46,5 +46,6 @@ Tasks:
 - [X] Add a line chart for Hourly forecast
 - [X] Custom icons
 - [X] Unslashed backgrund
-- [ ] Local time with UTC
-- [ ] Final styling
+- [X] Local time with UTC
+- [X] Final styling
+- [Github Repo](https://github.com/shedp/rain_check)
