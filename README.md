@@ -40,11 +40,11 @@ State Date: 17th October 2023
 
 ### Day 16-20: ReactJS Weather App
 - Finishing off the React Weather App I created
-- Tasks:
-  [x] Switching units functionality
-  [x] Input seach bar functionality
-  [x] Add a line chart for Hourly forecast
-  [x] Custom icons
-  [x] Unslashed backgrund
-  [ ] Local time with UTC
-  [ ] Final styling
+Tasks:
+- [x] Switching units functionality
+- [x] Input seach bar functionality
+- [X] Add a line chart for Hourly forecast
+- [X] Custom icons
+- [X] Unslashed backgrund
+- [ ] Local time with UTC
+- [ ] Final styling
