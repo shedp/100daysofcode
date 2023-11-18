@@ -3,7 +3,7 @@
 - Part of my 100 Days of Code challenge, day 5-6 I have decided to try a new language
 
 - Java programs have at least 1 class and 1 main() method
--Each class represents a real-word idea
+- Each class represents a real-word idea
 - main() method runs the tasks
 
 - IntelliJ IDEA is a popular IDE for Java
