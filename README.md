@@ -52,3 +52,6 @@ Tasks:
 
 ## Day 21: Learning the Basics of Next.js
 - [Github Repo](https://github.com/shedp/nextJS_intro)
+
+## Day 22-23: Beginners Next.js Application
+- [Github Repo](https://github.com/shedp/NextToDo)
