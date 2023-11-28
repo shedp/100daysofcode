@@ -50,8 +50,12 @@ Tasks:
 - [X] Final styling
 - [Github Repo](https://github.com/shedp/rain_check)
 
-## Day 21: Learning the Basics of Next.js
+## Day 21: Javascript Codewars
+- Javascript logic challenges
+- Codewars puzzles
+
+## Day 22: Learning the Basics of Next.js
 - [Github Repo](https://github.com/shedp/nextJS_intro)
 
-## Day 22-23: Beginners Next.js Application
+## Day 23-24: Beginners Next.js Application
 - [Github Repo](https://github.com/shedp/NextToDo)
