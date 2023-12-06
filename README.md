@@ -58,4 +58,7 @@ Tasks:
 - [Github Repo](https://github.com/shedp/nextJS_intro)
 
 ## Day 23-24: Beginners Next.js Application
+- ON HOLD - need to review more NEXT.js basics
 - [Github Repo](https://github.com/shedp/NextToDo)
+
+## 25: Learn Typescript
