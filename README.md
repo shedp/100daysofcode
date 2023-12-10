@@ -40,7 +40,6 @@ State Date: 17th October 2023
 
 ## Day 16-20: ReactJS Weather App
 - Finishing off the React Weather App I created
-Tasks:
 - [x] Switching units functionality
 - [x] Input seach bar functionality
 - [X] Add a line chart for Hourly forecast
@@ -54,17 +53,41 @@ Tasks:
 - Javascript logic challenges
 - Codewars puzzles
 
-## Day 22: Learning the Basics of Next.js
+## 22: Learn Typescript
+- Learning typescript using CodeCademy & [Programming with Mosh](https://www.youtube.com/watch?v=d56mG7DezGs&t=803s)
+
+## Day 23: Learning the Basics of Next.js
 - [Github Repo](https://github.com/shedp/nextJS_intro)
 
-## Day 23-24: Beginners Next.js Application
+## Day 24-25: Beginners Next.js Application
 - ON HOLD - need to review more NEXT.js basics
 - [Github Repo](https://github.com/shedp/NextToDo)
-
-## 25: Learn Typescript
+- [x] Add global context for themes
+- [x] Create sidebar
+- [x] Connect to Prisma database
+- [x] Setup Clerk for register & signup functionallity
+- [ ] Create task creation form
+- [ ] Update tasks to complete
+- [ ] Edit and delete tasks
 
 ## Day 26-31: Airbnb Clone
 - [Github Repo](https://github.com/shedp/AirbnbClone)
+- [x] Setup environment
+- [x] Navbar UI
+- [x] Register & login UI
+- [x] Setup and connect to database
+- [x] Login functionlity (email, Google, Github)
+- [x] Categories UI
+- [x] Create listings form (map, image upload and post)
+- [x] Fetch listings
+- [x] Favourite listings
+- [ ] Individual listings page
+- [ ] Create reservations (celendar input)
+- [ ] Reservations page
+- [ ] Favourites page
+- [ ] Load guest resaervations
+- [ ] Ny listings page
+- [ ] Filter listings
 
-## Day 31:
+## Day 32-34:
 - [Github Repo](https://github.com/shedp/RealtimeChat)
