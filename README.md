@@ -81,16 +81,25 @@ State Date: 17th October 2023
 - [x] Create listings form (map, image upload and post)
 - [x] Fetch listings
 - [x] Favourite listings
-- [ ] Individual listings page
-- [ ] Create reservations (celendar input)
-- [ ] Reservations page
-- [ ] Favourites page
-- [ ] Load guest resaervations
-- [ ] Ny listings page
-- [ ] Filter listings
+- [X] Individual listings page
+- [X] Create reservations (celendar input)
+- [X] Reservations page
+- [X] Favourites page
+- [X] Load guest resaervations
+- [X] Ny listings page
+- [X] Filter listings
 
-## Day 32-34:
+## Day 32-34: Eventicipation
 - [Github Repo](https://github.com/shedp/eventicipation)
+- [X] Navbar UI
+- [X] Modal UI
+- [X] Register functionality
+- [X] Login functionality
+- [ ] Card compnents
+- [ ] View Cards
+- [ ] Create Card
+- [ ] Edit Cards
+- [ ] Delete Cards
 
 ## Day 35-37:
 - [Github Repo](https://github.com/shedp/eventicipation)
