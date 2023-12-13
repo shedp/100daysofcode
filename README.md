@@ -90,4 +90,7 @@ State Date: 17th October 2023
 - [ ] Filter listings
 
 ## Day 32-34:
-- [Github Repo](https://github.com/shedp/RealtimeChat)
+- [Github Repo](https://github.com/shedp/eventicipation)
+
+## Day 35-37:
+- [Github Repo](https://github.com/shedp/eventicipation)
