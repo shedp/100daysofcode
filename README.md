@@ -89,17 +89,17 @@ State Date: 17th October 2023
 - [X] Ny listings page
 - [X] Filter listings
 
-## Day 32-34: Eventicipation
+## Day 32-35: Eventicipation
 - [Github Repo](https://github.com/shedp/eventicipation)
 - [X] Navbar UI
 - [X] Modal UI
 - [X] Register functionality
 - [X] Login functionality
 - [X] New card modal
-- [ ] Card compnents
-- [ ] View Cards
+- [x] Card compnents
+- [x] View Cards
 - [ ] Edit Cards
 - [ ] Delete Cards
 
-## Day 35-37:
+## Day 36-38:
 - [Github Repo](https://github.com/shedp/eventicipation)
