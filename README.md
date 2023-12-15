@@ -95,9 +95,9 @@ State Date: 17th October 2023
 - [X] Modal UI
 - [X] Register functionality
 - [X] Login functionality
+- [X] New card modal
 - [ ] Card compnents
 - [ ] View Cards
-- [ ] Create Card
 - [ ] Edit Cards
 - [ ] Delete Cards
 
