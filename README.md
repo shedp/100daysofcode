@@ -101,5 +101,9 @@ State Date: 17th October 2023
 - [ ] Edit Cards
 - [ ] Delete Cards
 
-## Day 36-38:
+## Day 36: Eventicipation
+- Made some new changes to portfolio
+
+
+## Day 37-39:
 - [Github Repo](https://github.com/shedp/eventicipation)
