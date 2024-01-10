@@ -104,3 +104,4 @@ State Date: 17th October 2023
 ## Day 36-38: Chat App Project
 - [X] Authentication UI
 - [X] Connect to Prisma and database
+- [X] Register and Login functionality
