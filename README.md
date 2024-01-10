@@ -101,4 +101,6 @@ State Date: 17th October 2023
 - [ ] Edit Cards
 - [ ] Delete Cards
 
-## Day 36-37: Chat App Project
+## Day 36-38: Chat App Project
+- [X] Authentication UI
+- [X] Connect to Prisma and database
