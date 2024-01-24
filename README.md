@@ -120,7 +120,7 @@ State Date: 17th October 2023
 
 ## Day 36: Python Decoder
 
-- For an test
+- For a test
 - Python function that will read a txt file of number and text
 
 ## Day 37-39: Chat App Project
